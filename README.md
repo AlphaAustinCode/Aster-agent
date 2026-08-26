@@ -4,6 +4,10 @@ A **secure, production-grade Retrieval-Augmented Generation (RAG) customer suppo
 
 The system combines **grounded knowledge retrieval, secure order lookup, LLM guardrails, PII protection, isolated sessions, observability, and deterministic evaluation** to prevent hallucinations and data leakage.
 
+## 🎥 Demo
+
+[▶️ Watch the Aster & Row AI Support Agent Demo](https://github.com/AlphaAustinCode/Aster-agent/releases/download/v1.0-demo/Aster-agent.Demo.mp4)
+
 ## ✨ Features
 
 * 🧠 **Grounded RAG** — Answers are based on validated knowledge-base content.
